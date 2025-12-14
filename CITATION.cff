@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Entropy Folding as Directed Thermodynamics for Cognition"
+authors:
+  - family-names: Paterson
+    given-names: Anthony
+version: "0.1.0"
+date-released: 2025-12-14
+license: AGPL-3.0-only
+url: "https://github.com/<OWNER>/<REPO>"
+repository-code: "https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished"
+preferred-citation:
+  type: article
+  title: "Entropy Folding as Directed Thermodynamics for Cognition"
+  authors:
+    - family-names: Paterson
+      given-names: Anthony
+  year: 2025

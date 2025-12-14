@@ -1,0 +1,2 @@
+# License: AGPLv3 (see LICENSE)
+pytest>=7.4.0
