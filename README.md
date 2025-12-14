@@ -37,6 +37,6 @@ pytest
   author  = {Paterson, Anthony},
   year    = {2025},
   note    = {Preprint, Symbound entropy series},
-  url     = {https://github.com/<<pending-repo>>}
+  url     = {https://github.com/entropy-folding-as-directed-thermodynamics-for-cognition-finished}
 }
 ```
