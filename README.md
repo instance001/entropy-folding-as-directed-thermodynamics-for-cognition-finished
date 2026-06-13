@@ -4,6 +4,11 @@ License: AGPLv3 (see LICENSE)
 [![CI](https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished/actions/workflows/ci.yml/badge.svg)](https://github.com/instance001/entropy-folding-as-directed-thermodynamics-for-cognition-finished/actions/workflows/ci.yml)
 License: AGPLv3 (see LICENSE)
 
+Work continues at:
+https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis
+and
+https://github.com/instance001/entropy-folding-cross-domain-signal-atlas
+
 ## What this repo is
 - Paper draft (`paper.md`) on fold-aware capacity estimation under open-system thermodynamic compatibility.
 - Minimal code stubs (`src/efe.py`, `src/metrics.py`) to structure vault→fold→capacity→insight cycles.
